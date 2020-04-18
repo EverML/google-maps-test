@@ -1,3 +1,7 @@
+# Instrucciones
+
+En el Index.HTML reemplazar el texto: [ YOUR_API_KEY_HERE ] por la llave que obtenemos [aca](https://developers.google.com/maps/documentation/javascript/get-api-key)
+
 # Plan Of Action
 
 - Import Google Maps into the Window - Done
